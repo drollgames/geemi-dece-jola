@@ -1,2 +1,8 @@
-# geemi-dece-jola
-jola Du geemi deve sks
+# GmDC Store
+
+`./gm --store <port>`
+
+### Api:
+
+*[...]*
+
